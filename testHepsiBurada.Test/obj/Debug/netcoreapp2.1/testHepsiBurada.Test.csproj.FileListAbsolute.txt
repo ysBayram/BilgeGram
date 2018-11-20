@@ -1,0 +1,17 @@
+E:\ysbDev\testHepsiBurada\testHepsiBurada.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\ysbDev\testHepsiBurada\testHepsiBurada.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\ysbDev\testHepsiBurada\testHepsiBurada.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\ysbDev\testHepsiBurada\testHepsiBurada.Test\bin\Debug\netcoreapp2.1\testHepsiBurada.Test.deps.json
+E:\ysbDev\testHepsiBurada\testHepsiBurada.Test\bin\Debug\netcoreapp2.1\testHepsiBurada.Test.runtimeconfig.json
+E:\ysbDev\testHepsiBurada\testHepsiBurada.Test\bin\Debug\netcoreapp2.1\testHepsiBurada.Test.runtimeconfig.dev.json
+E:\ysbDev\testHepsiBurada\testHepsiBurada.Test\bin\Debug\netcoreapp2.1\testHepsiBurada.Test.dll
+E:\ysbDev\testHepsiBurada\testHepsiBurada.Test\bin\Debug\netcoreapp2.1\testHepsiBurada.Test.pdb
+E:\ysbDev\testHepsiBurada\testHepsiBurada.Test\bin\Debug\netcoreapp2.1\testHepsiBurada.dll
+E:\ysbDev\testHepsiBurada\testHepsiBurada.Test\bin\Debug\netcoreapp2.1\testHepsiBurada.pdb
+E:\ysbDev\testHepsiBurada\testHepsiBurada.Test\obj\Debug\netcoreapp2.1\testHepsiBurada.Test.csprojAssemblyReference.cache
+E:\ysbDev\testHepsiBurada\testHepsiBurada.Test\obj\Debug\netcoreapp2.1\testHepsiBurada.Test.csproj.CoreCompileInputs.cache
+E:\ysbDev\testHepsiBurada\testHepsiBurada.Test\obj\Debug\netcoreapp2.1\testHepsiBurada.Test.AssemblyInfoInputs.cache
+E:\ysbDev\testHepsiBurada\testHepsiBurada.Test\obj\Debug\netcoreapp2.1\testHepsiBurada.Test.AssemblyInfo.cs
+E:\ysbDev\testHepsiBurada\testHepsiBurada.Test\obj\Debug\netcoreapp2.1\testHepsiBurada.Test.csproj.CopyComplete
+E:\ysbDev\testHepsiBurada\testHepsiBurada.Test\obj\Debug\netcoreapp2.1\testHepsiBurada.Test.dll
+E:\ysbDev\testHepsiBurada\testHepsiBurada.Test\obj\Debug\netcoreapp2.1\testHepsiBurada.Test.pdb
