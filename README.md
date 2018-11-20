@@ -5,6 +5,7 @@ A personal test for job offer which came from HepsiBurada. Project has got vsCod
 ## Quick Start
 
 ```bash
+git clone https://github.com/ysBayram/BilgeGram.git
 cd testHepsiBurada/testHepsiBurada
 dotnet run
 or
