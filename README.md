@@ -1,4 +1,4 @@
-# Hepsi Burada Company Test Project
+# Test Project
 
 A personal test for job offer which came from HepsiBurada. Project has got vsCode Config and Test project that powered by Microsoft.VisualStudio.TestTools.UnitTesting
 
